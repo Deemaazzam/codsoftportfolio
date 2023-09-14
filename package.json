@@ -1,10 +1,9 @@
 {
-  "homepage": "https://deemaazzam.github.io/codsoftpotfolio",
+  "homepage": "https://deemaazzam.github.io/codsoftportfolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
